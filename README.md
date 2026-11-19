@@ -1,7 +1,4 @@
-﻿# Vaahan-Alert-System
-
-
- # Vaahan-Alert-System
+   # Vaahan-Alert-System
 
 Real-time vehicle proximity detection,  Artificial Intelligence Automation, CSV incident logging, and live alert dashboard built with **Python (YOLO + ByteTrack + OpenCV)**, **n8n**, and **Next.js**.
 
